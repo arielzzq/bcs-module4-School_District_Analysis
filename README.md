@@ -17,8 +17,28 @@ The purposes of this analysis are listed below:
 ![top_five_1](Resources/images/top_five_1.png)
 ![top_five_2](Resources/images/top_five_2.png)
 - How does replacing the ninth-grade scores affect the following:
+
     - Math and reading scores by grade
+    
+    ![math_by_grade_1](Resources/images/math_by_grade_1.png) 
+    ![math_by_grade_2](Resources/images/math_by_grade_2.png)
+    ![reading_by_grade_1](Resources/images/reading_by_grade_1.png)
+    ![reading_by_grade_2](Resources/images/reading_by_grade_2.png)
+    
     - Scores by school spending
+    
+    ![spending_1](Resources/images/spending_1.png)
+    ![spending_2](Resources/images/spending_2.png)
+    
     - Scores by school size
+    
+    ![size_1](Resources/images/size_1.png)
+    ![size_2](Resources/images/size_2.png)
+    
     - Scores by school type
+    
+    ![type_1](Resources/images/type_1.png)
+    ![type_2](Resources/images/type_2.png)
+    
+   
 ## Summary
