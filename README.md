@@ -39,12 +39,17 @@ The effects of removing the scores for Thomas High School (THS) ninth graders on
     - There was no effect on 10th, 11th and 12th grades.
     - There was no effect on 9th grade for schools other than THS.
     - The math and reading scores for THS 9th grade became NaN after the change.
+    
     - Math Score Figures
+    
         ![math_by_grade_1](Resources/images/math_by_grade_1.png) 
         ![math_by_grade_2](Resources/images/math_by_grade_2.png)
+        
     - Reading Score Figures
+    
         ![reading_by_grade_1](Resources/images/reading_by_grade_1.png)
         ![reading_by_grade_2](Resources/images/reading_by_grade_2.png)
+        
 - Scores by school spending
     - THS was in "$630-644" spending bin, there was no effect on other bins.
     - After formatting the data frame, there was no effect on the "$630-644" bin as well.
