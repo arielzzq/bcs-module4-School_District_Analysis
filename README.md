@@ -39,9 +39,10 @@ The effects of removing the scores for Thomas High School (THS) ninth graders on
     - There was no effect on 10th, 11th and 12th grades.
     - There was no effect on 9th grade for schools other than THS.
     - The math and reading scores for THS 9th grade became NaN after the change.
-
+    - Math Score Figures
         ![math_by_grade_1](Resources/images/math_by_grade_1.png) 
         ![math_by_grade_2](Resources/images/math_by_grade_2.png)
+    - Reading Score Figures
         ![reading_by_grade_1](Resources/images/reading_by_grade_1.png)
         ![reading_by_grade_2](Resources/images/reading_by_grade_2.png)
 - Scores by school spending
@@ -66,3 +67,4 @@ The effects of removing the scores for Thomas High School (THS) ninth graders on
     
    
 ## Summary
+After reading and math scores have been replaced for Thomas High School ninth graders. The average math score, passing rate for math, passing rate for reading and the overall passing rate for the school district decreased. All of the results associate with scores for THS decreased except for the average reading score, it increasd from 83.84 to 84.89. The change didn't affect THS's performance relative to other school, and had no detectable effect on group analysis after rounding the data.
