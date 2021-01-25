@@ -8,9 +8,14 @@ The purposes of this analysis are listed below:
 
 ## Results
 - How is the district summary affected?
-
+![District_summary_1](Resources/images/District_summary_1.png)
+![District_summary_2](Resources/images/District_summary_2.png)
 - How is the school summary affected?
+![School_summary_1](Resources/images/School_summary_1.png)
+![School_summary_2](Resources/images/School_summary_2.png)
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+![top_five_1](Resources/images/top_five_1.png)
+![top_five_2](Resources/images/top_five_2.png)
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
     - Scores by school spending
