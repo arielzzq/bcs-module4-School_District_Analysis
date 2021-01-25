@@ -27,33 +27,39 @@ The effects of removing the scores for Thomas High School (THS) ninth graders on
     ![School_summary_1](Resources/images/School_summary_1.png)
     ![School_summary_2](Resources/images/School_summary_2.png)
     
-### Effect on performance ranking   
+### Effect on performance ranking
 - There was no effect on Thomas High School’s performance relative to the other schools.
 - THS was still the second place on the overall passing percentage ranking.
 
 ![top_five_1](Resources/images/top_five_1.png)
 ![top_five_2](Resources/images/top_five_2.png)
 
-### Effect on Group Analysis 
-
+### Effect on Group Analysis
 - Math and reading scores by grade
-    - 
-    ![math_by_grade_1](Resources/images/math_by_grade_1.png) 
-    ![math_by_grade_2](Resources/images/math_by_grade_2.png)
-    ![reading_by_grade_1](Resources/images/reading_by_grade_1.png)
-    ![reading_by_grade_2](Resources/images/reading_by_grade_2.png)
-    
-    - Scores by school spending
+    - There was no effect on 10th, 11th and 12th grades.
+    - There was no effect on 9th grade for schools other than THS.
+    - The math and reading scores for THS 9th grade became NaN after the change.
+
+        ![math_by_grade_1](Resources/images/math_by_grade_1.png) 
+        ![math_by_grade_2](Resources/images/math_by_grade_2.png)
+        ![reading_by_grade_1](Resources/images/reading_by_grade_1.png)
+        ![reading_by_grade_2](Resources/images/reading_by_grade_2.png)
+- Scores by school spending
+    - THS was in "$630-644" spending bin, there was no effect on other bins.
+    - After formatting the data frame, there was no effect on the "$630-644" bin as well.
     
     ![spending_1](Resources/images/spending_1.png)
     ![spending_2](Resources/images/spending_2.png)
     
-    - Scores by school size
+- Scores by school size
+    - THS was in "Medium (1000-2000)" size bin, there was no effect on other bins.
+    - After formatting the data frame, there was no effect on the "Medium (1000-2000)" bin as well.
     
     ![size_1](Resources/images/size_1.png)
     ![size_2](Resources/images/size_2.png)
     
-    - Scores by school type
+- Scores by school type
+    - After formatting the data frame, there was no effect.
     
     ![type_1](Resources/images/type_1.png)
     ![type_2](Resources/images/type_2.png)
